@@ -2,9 +2,10 @@
 {
     static void Main(String[] args)
     {
+        // Day 1
         Day_One_Part1();
         Day_One_Part2();
-
+        // Day 2
         Day_Two_Part1();
     }
 
@@ -135,6 +136,6 @@
             }
         }
 
-        Console.WriteLine("Day 2: \nIf everything went exactly according to the strategy guide, my score would be: {0}", score.ToString());
+        Console.WriteLine("\nDay 2: \nIf everything went exactly according to the strategy guide, my score would be: {0}", score.ToString());
     }
 }
