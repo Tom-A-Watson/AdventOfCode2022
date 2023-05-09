@@ -8,7 +8,8 @@
             CalorieCalculator.FindElfWithMostCalories();
             CalorieCalculator.FindAndAddTop3Calories();
             // Day 2
-            RockPaperScissors.GetScoreFromStrategyGuide();
+            RockPaperScissors.Part1();
+            RockPaperScissors.Part2();
         }
     }
 }
